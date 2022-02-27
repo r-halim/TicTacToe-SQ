@@ -7,10 +7,11 @@ Written by Raphaiel Halim; 100700318
 Software Quality; Assignment 1
 
 ## Table of Contents
-1. TicTacToe folder (containing 3 java classes in src/Game)
-2. Game demo.mkv (video of running the game)
-3. Report.pdf (containing documentations and explaination of the project)
-4. Test Cases.mkv (video of running the automated tests)
+
+1. [TicTacToe folder](https://github.com/r-halim/TicTacToe-SQ/tree/main/TicTacToe) (containing 3 java classes in src/Game)
+2. [Game demo.mkv](https://github.com/r-halim/TicTacToe-SQ/blob/main/Game%20demo.mkv) (video of running the game)
+3. [Report.pdf](https://github.com/r-halim/TicTacToe-SQ/blob/main/Report.pdf) (containing documentations and explaination of the project)
+4. [Test Cases.mkv](https://github.com/r-halim/TicTacToe-SQ/blob/main/Test%20Cases.mkv) (video of running the automated tests)
 
 ## Instructions to run game
 1. Create a java project (Making sure Java 1.8 is included)
