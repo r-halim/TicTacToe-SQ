@@ -15,7 +15,7 @@ Software Quality; Assignment 1
 6. Could also run the TestTicTacToe.java, which goes through and tests all the 15 test-cases
 7. In addition, you could check coverage for the classes as well
 
-## To add the JUnit Libary to the java project:
+## To add the JUnit Library to the java project:
 1. Right click the java project 
 2. Select "Build Path" 
 3. Choose "Add Libaries..."
