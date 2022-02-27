@@ -2,9 +2,10 @@
 
 TicTacToe GUI game
 
-written by Raphaiel Halim; 100700318
+Written by Raphaiel Halim; 100700318
 
 Software Quality; Assignment 1
+
 
 # Instructions to run
 1. Create a java project (Making sure Java 1.8 is included)
@@ -22,3 +23,5 @@ Software Quality; Assignment 1
 4. Select "JUnit"
 5. Choose "JUnit 5"
 6. Hit "Finish"
+
+### To view the video demos, make sure to use VLC media player
