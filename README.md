@@ -11,6 +11,9 @@ Software Quality; Assignment 1
 2. Create a package called "Game"
 3. Drag and drop onto the "Game" package the three classes: MainGui.java, TestTicTacToe.java, TicTacToeGui.java
 4. Make sure to add the JUnit library to the java project
+5. Now you could run the MainGui.java to try out the game
+6. Could also run the TestTicTacToe.java, which goes through and tests all the 15 test-cases
+7. In addition, you could check coverage for the classes as well
 
 ## To add the JUnit Libary to the java project:
 1. Right click the java project 
