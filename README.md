@@ -31,5 +31,3 @@ Software Quality; Assignment 1
 4. Select "JUnit"
 5. Choose "JUnit 5"
 6. Hit "Finish"
-
-### To view the video demos, make sure to use VLC media player
